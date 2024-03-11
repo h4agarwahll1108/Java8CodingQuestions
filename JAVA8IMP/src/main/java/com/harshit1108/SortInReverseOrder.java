@@ -1,8 +1,8 @@
 package com.harshit1108;
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
+import java.util.*;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
 
 public class SortInReverseOrder {
 
@@ -13,5 +13,9 @@ public class SortInReverseOrder {
         listOfInteger.stream()
                     .sorted(Comparator.reverseOrder())
                     .forEach(System.out::println);
+
+        int[] arr = {6,8,2,4,9};
+        //boxed is used to convert primitives data types into object type
+        Arrays.stream(arr).boxed().sorted(Comparator.reverseOrder()).forEach(System.out::print);
     }
 }
