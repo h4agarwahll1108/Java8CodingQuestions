@@ -6,7 +6,7 @@ import java.util.stream.Stream;
 public class SumOfAllDigits {
 
     public static void main(String[] args) {
-        int i = 110181998;
+        int i = 11081998;
 
         Integer sum = Stream.of(String.valueOf(i).split(""))
                             .collect(Collectors.summingInt(Integer::parseInt));
