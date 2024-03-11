@@ -17,6 +17,7 @@ public class FrequencyOfEachCharacter {
     }
 
 }
+
 /*
 Assuming inputString is a String, here's what each part of the code does:
 inputString.chars(): This returns an IntStream of Unicode code points representing each character in the string inputString.
