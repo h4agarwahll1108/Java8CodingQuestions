@@ -2,7 +2,7 @@ package com.harshit1108;
 
 import java.util.Arrays;
 
-public class SunAndAverageOfArray {
+public class SumAndAverageOfArray {
 
     public static void main(String[] args) {
 
