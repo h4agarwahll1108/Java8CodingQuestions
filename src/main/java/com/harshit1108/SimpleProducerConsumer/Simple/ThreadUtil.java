@@ -1,4 +1,4 @@
-package com.harshit1108.ProducerConsumer.Simple;
+package com.harshit1108.SimpleProducerConsumer.Simple;
 
 import java.util.List;
 

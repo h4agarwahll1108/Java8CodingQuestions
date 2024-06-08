@@ -1,5 +1,4 @@
-package com.harshit1108.ProducerConsumer.Simple;
-import com.harshit1108.ProducerConsumer.Simple.Message;
+package com.harshit1108.SimpleProducerConsumer.Simple;
 
 import java.util.LinkedList;
 import java.util.Queue;

@@ -1,4 +1,4 @@
-package com.harshit1108.ProducerConsumer.Basic;
+package com.harshit1108.SimpleProducerConsumer.Basic;
 
 class DataBlock {
 	

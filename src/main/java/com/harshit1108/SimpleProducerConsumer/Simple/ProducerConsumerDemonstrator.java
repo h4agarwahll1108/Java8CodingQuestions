@@ -1,9 +1,9 @@
-package com.harshit1108.ProducerConsumer.Simple;
+package com.harshit1108.SimpleProducerConsumer.Simple;
 
 import java.util.ArrayList;
 import java.util.List;
-import static com.harshit1108.ProducerConsumer.Simple.ThreadUtil.sleep;
-import static com.harshit1108.ProducerConsumer.Simple.ThreadUtil.waitForAllThreadsToComplete;
+import static com.harshit1108.SimpleProducerConsumer.Simple.ThreadUtil.sleep;
+import static com.harshit1108.SimpleProducerConsumer.Simple.ThreadUtil.waitForAllThreadsToComplete;
 
 public class ProducerConsumerDemonstrator {
     private static final int MAX_QUEUE_CAPACITY = 5;
