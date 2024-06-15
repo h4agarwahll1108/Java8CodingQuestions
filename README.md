@@ -1,2 +1,36 @@
 # Java8CodingQuestions
 This project contain code for Java 8 functonal programing
+
+BinarySearch2DMatrix.java
+CheckAnagramsString.java
+ConcurrentHashMapExceptionCase.java
+ConcurrentHashMapProblem.java
+FindCommonElementBetweenTwoArray.java
+FindMostRepeatedElementInArray.java
+FirstThreeMaxMinNumber.java
+FrequencyOfEachCharacter.java
+FrequencyOfEachElement.java
+JoinStringWithPrefixSuffixDelimiter.java
+MaxMinNumber.java
+MergeTwoUnsortedArrayInOneSortedArray.java
+MyComparator.java
+MyComparatorMain.java
+OddEven.java
+OverloadingChild.java
+OverloadingMain.java
+OverloadingParent.java
+OverridingChild.java
+OverridingMain.java
+OverridingParent.java
+PrintNumberMultipleByX.java
+RemoveDuplicateElements.java
+ReverseEachWordInAString.java
+ReverseIntArray.java
+ReverseString.java
+ReverseStringWithoutUsingReverseFunction.java
+SecondLargestInArray.java
+SortInReverseOrder.java
+SortStringBasedOnLength.java
+SumAndAverageOfArray.java
+SumOfAllDigits.java
+SumOfFirstTenNaturalNumber.java
