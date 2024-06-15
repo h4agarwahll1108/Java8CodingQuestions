@@ -1,36 +1,36 @@
 # Java8CodingQuestions
 This project contain code for Java 8 functonal programing
 
-BinarySearch2DMatrix.java
-CheckAnagramsString.java
-ConcurrentHashMapExceptionCase.java
-ConcurrentHashMapProblem.java
-FindCommonElementBetweenTwoArray.java
-FindMostRepeatedElementInArray.java
-FirstThreeMaxMinNumber.java
-FrequencyOfEachCharacter.java
-FrequencyOfEachElement.java
-JoinStringWithPrefixSuffixDelimiter.java
-MaxMinNumber.java
-MergeTwoUnsortedArrayInOneSortedArray.java
-MyComparator.java
-MyComparatorMain.java
-OddEven.java
-OverloadingChild.java
-OverloadingMain.java
-OverloadingParent.java
-OverridingChild.java
-OverridingMain.java
-OverridingParent.java
-PrintNumberMultipleByX.java
-RemoveDuplicateElements.java
-ReverseEachWordInAString.java
-ReverseIntArray.java
-ReverseString.java
-ReverseStringWithoutUsingReverseFunction.java
-SecondLargestInArray.java
-SortInReverseOrder.java
-SortStringBasedOnLength.java
-SumAndAverageOfArray.java
-SumOfAllDigits.java
-SumOfFirstTenNaturalNumber.java
+1. BinarySearch2DMatrix.java
+2. CheckAnagramsString.java
+3. ConcurrentHashMapExceptionCase.java
+4. ConcurrentHashMapProblem.java
+5. FindCommonElementBetweenTwoArray.java
+6. FindMostRepeatedElementInArray.java
+7. FirstThreeMaxMinNumber.java
+8. FrequencyOfEachCharacter.java
+9. FrequencyOfEachElement.java
+10. JoinStringWithPrefixSuffixDelimiter.java
+11. MaxMinNumber.java
+12. MergeTwoUnsortedArrayInOneSortedArray.java
+13. MyComparator.java
+14. MyComparatorMain.java
+15. OddEven.java
+16. OverloadingChild.java
+17. OverloadingMain.java
+18. OverloadingParent.java
+19. OverridingChild.java
+20. OverridingMain.java
+21. OverridingParent.java
+22. PrintNumberMultipleByX.java
+23. RemoveDuplicateElements.java
+24. ReverseEachWordInAString.java
+25. ReverseIntArray.java
+26. ReverseString.java
+27. ReverseStringWithoutUsingReverseFunction.java
+28. SecondLargestInArray.java
+29. SortInReverseOrder.java
+30. SortStringBasedOnLength.java
+31. SumAndAverageOfArray.java
+32. SumOfAllDigits.java
+33. SumOfFirstTenNaturalNumber.java
