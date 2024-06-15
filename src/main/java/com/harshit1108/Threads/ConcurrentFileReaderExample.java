@@ -17,7 +17,7 @@ public class ConcurrentFileReaderExample {
     public static void main(String[] args) {
         // File paths for two files to read. Like AWS we have many numbers of files
         String file1Path = "src/files/sampleFile1.txt";
-        String file2Path = "src/files/sampleFile1.txt";
+        String file2Path = "src/files/sampleFile2.txt";
 
         // Create two threads, one for each file (Like for 100 files 100 thread i have to create
         Thread file1Thread = new Thread(() -> readFile(file1Path));
@@ -53,8 +53,9 @@ public class ConcurrentFileReaderExample {
 
 /*OUTPUT
 Thread-0: reads line  File 1 Line 1
-Thread-1: reads line  File 1 Line 1
-Thread-1: reads line  File 1 Line 2
+Thread-1: reads line  File 2 Line 1
+Thread-1: reads line  File 2 Line 2
 Thread-0: reads line  File 1 Line 2
-Thread-1: reads line  File 1 Line 3
-Thread-0: reads line  File 1 Line 3*/
+Thread-0: reads line  File 1 Line 3
+Thread-1: reads line  File 2 Line 3
+*/
